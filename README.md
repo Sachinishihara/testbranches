@@ -1,3 +1,3 @@
 # testbranches
-*testing branches
+* testing branches
 # hello
